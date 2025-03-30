@@ -15,6 +15,8 @@ Q2. Which actors/actresses were in the movie that had the highest rating?
 
 Q3. Which directors have produced films with a higher rating?
 
+Q4. What is the most profitable genre?
+
 # Data Description
 
 The files used in the project were provided in the project description.
@@ -47,4 +49,8 @@ The files used in this project are:
 
 3. The studio can consider working with these directors during production of movies since they have a higher rating in films.
 
-4. 
+4. Action, Animation, and Comedy lead profitability, indicating that family-friendly and high-energy genres generate the highest returns.
+
+Hybrid genres dominate, suggesting that movies combining elements like Adventure, Sci-Fi, and Drama attract wider audiences and greater profits.
+
+Comedy appears multiple times, reinforcing its broad appeal and consistent profitability across different sub-genres.
